@@ -7,3 +7,4 @@ Machine Learning Course
 - Random Forest
 - Naive Bayes
 - SVM
+- Decision Tree
